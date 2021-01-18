@@ -1,2 +1,2 @@
 původní text
-proměnná = 123
+proměnná = abc_123
