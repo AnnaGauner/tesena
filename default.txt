@@ -1,3 +1,4 @@
 původní text
 proměnná = abc_123
+
 změna v new_branch
